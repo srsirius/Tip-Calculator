@@ -521,6 +521,12 @@ files:
   visible: false
   text: sdk=28
   learner_created: false
+- name: src/main/res/drawable-v24/ic_launcher_tip.xml
+  visible: true
+  learner_created: true
+- name: src/main/res/values-ru-rRU/strings.xml
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/158/stages/825/implement#comment
 status: Solved
 feedback:
