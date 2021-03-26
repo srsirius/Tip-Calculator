@@ -1,0 +1,4 @@
+#Fri Mar 26 10:30:55 VLAT 2021
+base.0=D\:\\projects\\Tip Calculator\\Tip Calculator\\task\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
